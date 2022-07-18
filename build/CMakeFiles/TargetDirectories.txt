@@ -1,0 +1,6 @@
+/home/junnu/cpsc51500/sec3/build/CMakeFiles/avg-sfile.dir
+/home/junnu/cpsc51500/sec3/build/CMakeFiles/avg-mfile.dir
+/home/junnu/cpsc51500/sec3/build/CMakeFiles/avg-mfile-basic-test.dir
+/home/junnu/cpsc51500/sec3/build/CMakeFiles/test.dir
+/home/junnu/cpsc51500/sec3/build/CMakeFiles/edit_cache.dir
+/home/junnu/cpsc51500/sec3/build/CMakeFiles/rebuild_cache.dir

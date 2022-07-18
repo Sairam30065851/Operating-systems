@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--enable-auto-import "CMakeFiles/avg-mfile-basic-test.dir/avg-mfile-basic-test.c.o" "CMakeFiles/avg-mfile-basic-test.dir/avg.c.o" -o avg-mfile-basic-test.exe -Wl,--out-implib,libavg-mfile-basic-test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

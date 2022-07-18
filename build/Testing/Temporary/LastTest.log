@@ -1,0 +1,19 @@
+Start testing: Jul 12 15:13 IST
+----------------------------------------------------------
+1/1 Testing: avg-mfile-basic-test
+1/1 Test: avg-mfile-basic-test
+Command: "/home/junnu/cpsc51500/sec3/build/avg-mfile-basic-test"
+Directory: /home/junnu/cpsc51500/sec3/build
+"avg-mfile-basic-test" start time: Jul 12 15:13 IST
+Output:
+----------------------------------------------------------
+ - [ [32mpassed[0m ] Line 8: 15 == 15
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"avg-mfile-basic-test" end time: Jul 12 15:13 IST
+"avg-mfile-basic-test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 12 15:13 IST

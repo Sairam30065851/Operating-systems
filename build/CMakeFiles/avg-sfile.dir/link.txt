@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--enable-auto-import "CMakeFiles/avg-sfile.dir/avg-sfile.c.o" -o avg-sfile.exe -Wl,--out-implib,libavg-sfile.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

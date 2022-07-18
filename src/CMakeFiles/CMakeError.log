@@ -1,0 +1,11 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c++: fatal error: -fuse-linker-plugin, but cyglto_plugin.dll not found
+compilation terminated.
+
+
